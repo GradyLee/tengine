@@ -30,6 +30,7 @@ Features
 * Expiration times can be specified for certain MIME types.
 * Error pages can be reset to 'default'.
 * ...
+* ...
 
 Installation
 ============
